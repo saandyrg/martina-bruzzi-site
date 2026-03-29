@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  background: #f7f2ee;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+img {
+  display: block;
+}
